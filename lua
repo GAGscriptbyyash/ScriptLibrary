@@ -132,7 +132,7 @@ button1.MouseButton1Click:Connect(function()
 	button1.BackgroundTransparency = 0
 end)
 -- Button 2
-local button2 = createButton(frame, 82, "Run Zysume Hub")
+local button2 = createButton(frame, 82, "Run Bloxified Hub")
 button2.MouseButton1Click:Connect(function()
 	button2.Text = "Loading..."
 	button2.BackgroundTransparency = 0.5
